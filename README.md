@@ -1,1 +1,1 @@
-# voting_dapp
+# Solana Practices
